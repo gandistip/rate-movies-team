@@ -1,4 +1,4 @@
-# Кинорейтинг - веб-сервис на Java, Spring Boot
+# Кинорейтинг - веб-сервис на Java, Spring Boot (team work)
 Стек - Java, Spring Boot, JDBC, SQL, H2, REST API, JUnit
 
 ## О проекте
